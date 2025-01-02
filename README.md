@@ -17,7 +17,7 @@ Before running this project, ensure you have the following installed on your sys
 ## Installation Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/deepanshu7539/todo-api.git)>
    cd todo-api
 
 
